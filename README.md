@@ -10,7 +10,7 @@ I'm a motivated and curious IT undergraduate passionate about building impactful
 
 - 📧 [sahitheevadali@gmail.com](mailto:sahitheevadali@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/sahithee-vadali)  
-- 🐙 [GitHub](https://github.com/Sahithee-Vadali)  
+- 🐙 [GitHub](https://github.com/Sahithee-Vadali) 
 
 ---
 
@@ -30,6 +30,7 @@ I'm a motivated and curious IT undergraduate passionate about building impactful
 ### **JobResearch-AI** | Individual Project  
 *Mar 2025 – Jun 2025*  
 **Technologies:** LangGraph, FastAPI, OpenRouter, SerpAPI, Next.js, Tailwind CSS  
+**Live Demo:** [job-researcher-ai-b1zn.vercel.app](https://job-researcher-ai-b1zn.vercel.app/)  
 
 A full-stack AI-powered platform for smart job search and personalized career recommendations. Key features include:  
 - Multi-agent workflows using LangGraph for job search, analysis, and recommendations  
@@ -44,6 +45,7 @@ A full-stack AI-powered platform for smart job search and personalized career re
 ### **WellNest – Mental Health Tracker** | Team Lead  
 *Nov 2024 – Feb 2025*  
 **Technologies:** React.js, Material UI, Node.js, Firebase  
+**Live Demo:** [well-nest-seven.vercel.app](https://well-nest-seven.vercel.app/)  
 
 Built a mental wellness platform offering blogs, workshops, inspirational quotes, and anxiety tests.  
 - Led a team of 3 developers and implemented secure authentication & data management using Firebase  
